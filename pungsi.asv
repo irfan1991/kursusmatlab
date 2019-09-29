@@ -1,0 +1,12 @@
+clear
+clc
+
+global c ;
+
+
+% fungsi sederhana
+function jumlah
+    % mengambil variabel global
+    global c;
+    a = 1;
+    b
